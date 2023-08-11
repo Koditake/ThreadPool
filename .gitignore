@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+# VSCODE
+.vscode
+.gitignore
+
+#discard file
+/src/ThreadPool.cpp
+/src/threadpool1.hpp
